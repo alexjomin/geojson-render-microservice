@@ -1,0 +1,2 @@
+Flask==0.12
+-e git+https://github.com/alexjomin/geojson-to-img.git#egg=geojson_to_img
